@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-arq-seu-est-git-fun-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-arq-seu-est-git-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
